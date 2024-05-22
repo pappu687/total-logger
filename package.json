@@ -1,0 +1,16 @@
+{
+  "name": "total-logger",
+  "version": "1.0.0",
+  "description": "Realtime Total Logger. PHP/JavaScript/GoLang",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^30.0.6",
+    "ws": "^8.17.0"
+  }
+}
